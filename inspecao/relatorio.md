@@ -13,3 +13,7 @@ intro do trab.
 1. d
 2. s
 3. a
+
+# figura 
+[nome](link)
+[chara](https://bangkok.nyc3.cdn.digitaloceanspaces.com/20230600_s1_webp_o_05/sticker-fan_10659514_o.webp)
