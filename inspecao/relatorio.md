@@ -27,4 +27,4 @@ intro do trab.
 |cabeçalho|cabeçalho|
 |---------|---------|
 |linha1,c1|linha1,c2|
-|linha....|linha    |
+|linha|linha    |
