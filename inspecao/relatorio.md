@@ -15,4 +15,6 @@ intro do trab.
 3. a
 
 # figura 
-![chara](https://bangkok.nyc3.cdn.digitaloceanspaces.com/20230600_s1_webp_o_05/sticker-fan_10659514_o.webp)
+<img src="https://bangkok.nyc3.cdn.digitaloceanspaces.com/20230600_s1_webp_o_05/sticker-fan_10659514_o.webp" alt="Exemplo de Imagen" width="300" >
+
+
