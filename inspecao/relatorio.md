@@ -24,7 +24,7 @@ intro do trab.
 
 # tabelas
 
-|cabeçalho|cabeçalho|
-|---------|---------|
-|linha1,c1|linha1,c2|
-|linha|linha    |
+|cabeçalho|cabeçalho|cabeçalho|cabeçalho|
+|---------|---------|---------|---------|
+|linha1,c1|linha1,c2|---------|---------|
+|linha|linha    |---------|---------|
