@@ -19,4 +19,12 @@ intro do trab.
 
 # negrito italiano
 
+*italiano*
+**negro**
 
+# tabelas
+
+|cabeçalho|cabeçalho|
+|.........|.........|
+|linha1,c1|linha1,c2|
+|linha....|linha    |
